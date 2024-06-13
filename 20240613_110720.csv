@@ -1,0 +1,8 @@
+Suite/Test/Step Name,Browser,Description,Tag,Start time,End time,Duration,Status
+New Test Suite,Chrome 125.0.0.0,,,13-06-2024 11:07:34,13-06-2024 11:14:37,7m - 3.487s,FAILED
+,,,,,,,
+Test Cases/MKU/mkuTest Case,Chrome 125.0.0.0,,,13-06-2024 11:10:01,13-06-2024 11:10:50,48.951s,FAILED
+,,,,,,,
+Test Cases/ms/msTest Case,Chrome 125.0.0.0,,,13-06-2024 11:11:28,13-06-2024 11:11:40,12.659s,FAILED
+,,,,,,,
+Test Cases/gacm/New Test Case,Chrome 125.0.0.0,,,13-06-2024 11:13:52,13-06-2024 11:14:35,42.811s,FAILED
